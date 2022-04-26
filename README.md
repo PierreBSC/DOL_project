@@ -17,7 +17,7 @@ Additionnaly, two small files are needed for the analysis :
 All those dataset were analysed using the [**pagoda**](https://github.com/kharchenkolab/pagoda2) pipeline. To install it please go on the corresponding [Github](https://github.com/kharchenkolab/pagoda2) page. Other packages need to be installed :
 - [fifer](https://github.com/dustinfife/fifer)
 - uwot, RColorBrewer, pheatmap and liger (CRAN packages)
-- DESeq2, GEOquery, biomaRt and CountClust (Bioconductor packages)
+- DESeq2, GEOquery, biomaRt, ggplot2 and CountClust (Bioconductor packages)
 
 This repository contains the following scripts :
 
