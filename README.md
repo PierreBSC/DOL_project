@@ -9,7 +9,6 @@ The data used in this project can be accessed using the following link :
 - Chromium 10X data from healthy and EAE mice at various stages of the disease (Wheeler et al. 2020) : [GSE129609](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129609).
 - Chromium 10X data from Aging SVZ (Dulken et al. 2019) : [PRJNA450425](https://www.ncbi.nlm.nih.gov/bioproject/?term=PRJNA450425)
 - Visium® 10X data from LPS injected mouse brains (Lee et al. 2021) : [GSE165098](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE165098).
-- Visium® 10X data from Non Dementia Control (NDC) and Alzheimer's Disease (AD) patients [(Chen et al. 2021)](https://www.biorxiv.org/content/10.1101/2021.07.07.451554v1.full): data are available upon request to the authors.
 
 Additionnaly, two small files are needed for the analysis :
 - DOL_genes.txt : a txt file containing the list of the DOL genes 
@@ -25,4 +24,4 @@ This repository contains the following scripts :
 - EAE_Falcao_analysis_script.R : script for the analysis of the Smart-Seq2 EAE dataset.
 - EAE_Wheeler_analysis_script.R : script for the analysis of the 10X EAE dataset.
 - Aging_SVZ_analysis_script.R : script for the analysis of the 10X aging SVZ analysis.
-- 
+- Visium_brain_inflamation.R : script for the analysis of the LPS stimulated brain samples.
