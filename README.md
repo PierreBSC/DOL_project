@@ -1,4 +1,4 @@
-# Analysis of Disease associated Oligodendrocytes (DOLs) 
+# Analysis of Disease associated Oligodendrocytes (DOLs) using various sc
 
 This repository contains the code and scripts used for the single-cell/spatial transcriptomic analysis of mouse oligodendrocytes in Alzheimers disease.
 The data used in this project can be accessed using the following link :
@@ -25,4 +25,4 @@ This repository contains the following scripts :
 - EAE_Wheeler_analysis_script.R : script for the analysis of the 10X EAE dataset.
 - Aging_SVZ_analysis_script.R : script for the analysis of the 10X aging SVZ analysis.
 - Visium_brain_inflamation.R : script for the analysis of the LPS stimulated brain samples.
-- 
+- AD_hippocampi_analysis_script.R : script for the analysis of the hippocampi from various AD models.
