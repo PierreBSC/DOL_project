@@ -21,6 +21,7 @@ All those dataset were analysed using the [**pagoda**](https://github.com/kharch
 
 This repository contains the following scripts :
 
+- Whole_brain_analysis.R : script and thus containing all the code to generate Figure 1 (analysis of all non immune cells from the brain)
 - EAE_Falcao_analysis_script.R : script for the analysis of the Smart-Seq2 EAE dataset.
 - EAE_Wheeler_analysis_script.R : script for the analysis of the 10X EAE dataset.
 - Aging_SVZ_analysis_script.R : script for the analysis of the 10X aging SVZ analysis.
