@@ -1,4 +1,4 @@
-# Analysis of Disease associated Oligodendrocytes (DOLs) using various sc
+# Analysis of Disease associated Oligodendrocytes (DOLs) using various scRNA-seq datasets
 
 This repository contains the code and scripts used for the single-cell/spatial transcriptomic analysis of mouse oligodendrocytes in Alzheimers disease.
 The data used in this project can be accessed using the following link :
