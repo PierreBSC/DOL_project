@@ -3,7 +3,7 @@
 This repository contains the code and scripts used for the single-cell/spatial transcriptomic analysis of mouse oligodendrocytes in Alzheimers disease.
 The data used in this project can be accessed using the following link :
 
-- MARS-seq 2.0 data generated from whole WT and 5XAD mice brain : GSE....[]
+- MARS-seq 2.0 data generated from whole WT and 5XAD mice brain : [GSE202297](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE202297)
 - Chromium 10X data from the hippocampi of TauP301L, PS2APP/TauP301L, and PS2APP/TauP301L/TREM2KO mice (Lee et al. 2021) : [GSE153895](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE153895).
 - Smart-seq2 data from healthy and EAE mice (Falcão et al. 2018) : [GSE113973](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE113973)
 - Chromium 10X data from healthy and EAE mice at various stages of the disease (Wheeler et al. 2020) : [GSE129609](https://www.ncbi.nlm.nih.gov/geo/query/acc.cgi?acc=GSE129609).
